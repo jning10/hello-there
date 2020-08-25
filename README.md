@@ -1,2 +1,2 @@
 # hello-there
-My first github page prpository
+My first github page repository
